@@ -6,8 +6,6 @@ URL: https://tim-p95.github.io/pixel_blog/
 
 Beschreibung...
 
-![bild 2](https://i.pinimg.com/236x/97/50/7c/97507cb58048040661fe36fea9f07c4c--minecraft-pixelart-minecraft-art.jpg)
-
 [Erster Blogeintrag](https://tim-p95.github.io/pixel_blog/blog_eintrag1.html)
 
 <!---
@@ -31,7 +29,7 @@ Blogeinträge:
     <td width="50%"><a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">Erster Eintrag</a></td>
   </tr>
   <tr>
-    <td width="50%">Bild 2</td>
+    <td width="50%">![bild 2](https://i.pinimg.com/236x/97/50/7c/97507cb58048040661fe36fea9f07c4c--minecraft-pixelart-minecraft-art.jpg)</td>
     <td width="50%">Link 2</td>
   </tr>
 </table>

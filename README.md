@@ -12,15 +12,15 @@ Test Website für Blog zum Seminar Gerasterters Wissen - Pixel in Kultur und Tec
   <img src="http://www.gesamtschule-hambergen.de/wp-content/uploads/2018/06/pixil-frame-0.png" alt="Link zum ersten Blogeintrag" style="width:50px;height:50px;">
 </a>
 
-<table style="width:100%">
-  <tr style="width:50%">
+<table style="width:100%" class="equalDivide">
+  <tr>
     <td><a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">
           <img src="http://www.gesamtschule-hambergen.de/wp-content/uploads/2018/06/pixil-frame-0.png" alt="Link zum ersten Blogeintrag"            style="width:50px;height:50px;">
         </a>
     </td>
     <th><a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">Erster Eintrag</a></th>
   </tr>
-  <tr style="width:50%">
+  <tr>
     <td>Bild 2</td>
     <td>Link 2</td>
   </tr>

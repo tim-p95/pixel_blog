@@ -1,8 +1,10 @@
+<!---
 <style>
 .site-main table.no-border td {
     border: none;
 }
 </style>
+-->
 
 # Pixel Blog
 

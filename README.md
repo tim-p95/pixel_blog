@@ -28,7 +28,7 @@ Beschreibung...
 
 Blogeinträge:
 
-<table width="100%" class="no-border">
+<table width="100%">
   <tr>
     <td width="50%">
       <a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">

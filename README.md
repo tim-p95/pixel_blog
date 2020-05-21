@@ -22,7 +22,7 @@ Blogeinträge:
 
 <table style="width:100%; border:0px">
   <tr>
-    <td width="50%">
+    <td width="50%" style="text-align:center;">
       <a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">
         <img src="http://www.gesamtschule-hambergen.de/wp-content/uploads/2018/06/pixil-frame-0.png" alt="Link zum ersten Blogeintrag"            style="width:150px;height:150px;">
       </a>

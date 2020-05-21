@@ -20,7 +20,7 @@ Beschreibung...
 
 Blogeinträge:
 
-<table style="width:100%; border:0px">
+<table style="width:100%; border: none;">
   <tr>
     <td width="50%" style="text-align:center;">
       <a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">

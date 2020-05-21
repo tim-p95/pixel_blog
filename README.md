@@ -22,10 +22,10 @@ Beschreibung...
 
 Blogeinträge:
 
-<table>
+<table style="width:100%">
   <tr>
     <td width="50%"><a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">
-          <img src="http://www.gesamtschule-hambergen.de/wp-content/uploads/2018/06/pixil-frame-0.png" alt="Link zum ersten Blogeintrag"            style="width:50px;height:50px;">
+          <img src="http://www.gesamtschule-hambergen.de/wp-content/uploads/2018/06/pixil-frame-0.png" alt="Link zum ersten Blogeintrag"            style="width:200px;height:200px;">
         </a>
     </td>
     <td width="50%"><a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">Erster Eintrag</a></td>

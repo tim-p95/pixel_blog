@@ -20,7 +20,7 @@ Beschreibung...
 
 Blogeinträge:
 
-<table style="width:100%" cellspacing="0" cellpadding="0">
+<table style="width:100%; border:0px">
   <tr>
     <td width="50%">
       <a href="https://tim-p95.github.io/pixel_blog/blog_eintrag1.html">

@@ -14,19 +14,14 @@ Test Website für Blog zum Seminar Gerasterters Wissen - Pixel in Kultur und Tec
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>![bild 2](https://i.pinimg.com/236x/97/50/7c/97507cb58048040661fe36fea9f07c4c--minecraft-pixelart-minecraft-art.jpg)</th>
+    <th>Bild 2</th>
+    <th>Bild 3</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>[Erster Blogeintrag](https://tim-p95.github.io/pixel_blog/blog_eintrag1.html)</td>
+    <td>Link 2</td>
+    <td>Link 3</td>
   </tr>
 </table>
 

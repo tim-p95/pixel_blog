@@ -2,6 +2,8 @@
 
 Test Website für Blog zum Seminar Gerasterters Wissen - Pixel in Kultur und Technik.
 
+URL: https://tim-p95.github.io/pixel_blog/
+
 Beschreibung...
 
 ![bild 2](https://i.pinimg.com/236x/97/50/7c/97507cb58048040661fe36fea9f07c4c--minecraft-pixelart-minecraft-art.jpg)

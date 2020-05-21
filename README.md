@@ -12,5 +12,23 @@ Test Website für Blog zum Seminar Gerasterters Wissen - Pixel in Kultur und Tec
   <img src="http://www.gesamtschule-hambergen.de/wp-content/uploads/2018/06/pixil-frame-0.png" alt="Link zum ersten Blogeintrag" style="width:50px;height:50px;">
 </a>
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
 ![bild 2](https://i.pinimg.com/236x/97/50/7c/97507cb58048040661fe36fea9f07c4c--minecraft-pixelart-minecraft-art.jpg)
 
